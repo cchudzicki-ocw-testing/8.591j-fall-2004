@@ -12,6 +12,4 @@ parent_uid: 7f8e6ba8-8e19-22a3-f3a4-87a8fecefc6a
 resourcetype: Other
 title: CodeI2.m
 uid: 8ecfd11c-35dd-9cf2-dcdc-4307eb620562
-video_files:
-  video_thumbnail_file: null
 ---

@@ -12,6 +12,4 @@ parent_uid: 7f8e6ba8-8e19-22a3-f3a4-87a8fecefc6a
 resourcetype: Other
 title: routh.m
 uid: afe85a53-4252-53ad-d586-84b695188883
-video_files:
-  video_thumbnail_file: null
 ---

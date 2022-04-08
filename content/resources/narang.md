@@ -12,6 +12,4 @@ parent_uid: 7f8e6ba8-8e19-22a3-f3a4-87a8fecefc6a
 resourcetype: Other
 title: narang.m
 uid: 626a1a3d-f514-8201-097f-7973bd68b226
-video_files:
-  video_thumbnail_file: null
 ---

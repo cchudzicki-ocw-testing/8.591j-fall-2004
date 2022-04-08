@@ -12,6 +12,4 @@ parent_uid: 7f8e6ba8-8e19-22a3-f3a4-87a8fecefc6a
 resourcetype: Other
 title: how_homog.m
 uid: 2010b623-0dff-4044-1f58-11399a01d9db
-video_files:
-  video_thumbnail_file: null
 ---

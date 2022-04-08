@@ -8,11 +8,8 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7f8e6ba8-8e19-22a3-f3a4-87a8fecefc6a
 resourcetype: Document
 title: l9_syllabus.pdf
 uid: 408b1339-148e-efb6-e98f-d7abbc6a2a07
-video_files:
-  video_thumbnail_file: null
-video_metadata:
-  youtube_id: null
 ---

@@ -12,6 +12,4 @@ parent_uid: 91766c16-0667-c25f-07bd-4c4d6ea6d36a
 resourcetype: Other
 title: ps6.m
 uid: f87b06e9-df9a-6a03-6d99-672ef41f4b78
-video_files:
-  video_thumbnail_file: null
 ---
